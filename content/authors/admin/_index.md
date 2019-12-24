@@ -17,7 +17,8 @@ education:
 email: ""
 interests:
 - Spatial Statistics
-- Environmental Stats and Remote Sensing
+- Environmental Stats
+- Remote Sensing
 - Data Visualization
 - Sports Analytics
 name: Marschall Furman
